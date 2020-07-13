@@ -8,7 +8,3 @@
 * 0.0.1
     * Inicio del proyecto
 
-
-**Table of Contents**
-
-[TOC]

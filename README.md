@@ -1,8 +1,11 @@
 # Luis Fernando Ushiña
 > Creando Soluciones Mundo Virtual
 
-![](https://scontent.fuio10-1.fna.fbcdn.net/v/t1.15752-9/107931679_480014052848494_3897971392871688069_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_eui2=AeGRyClej0Wys1m8QbVU98geMxcZjnyhKgQzFxmOfKEqBHciier-oaBv39ushf9sQdFibnIq_eZHgK5OqjxF1Qwd&_nc_ohc=22DoF5QfUV0AX8tkj9q&_nc_ht=scontent.fuio10-1.fna&oh=4bed9b8098d2ca9ca301fc0c044ef60b&oe=5F325CF2 )
-
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51898367-7f7a-44d1-880e-256f2d2a9fa5/de79qnn-d5fd7313-4278-4cb0-8dd3-6e5e85d0bebc.png/v1/fill/w_981,h_662,q_80,strp/screenshot_from_soluciones_mundovirtual_by_guffenix_de79qnn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NjIiLCJwYXRoIjoiXC9mXC81MTg5ODM2Ny03ZjdhLTQ0ZDEtODgwZS0yNTZmMmQyYTlmYTVcL2RlNzlxbm4tZDVmZDczMTMtNDI3OC00Y2IwLThkZDMtNmU1ZTg1ZDBiZWJjLnBuZyIsIndpZHRoIjoiPD05ODEifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.D9l8807LaE1mzVtOFj550uAnAgyS7-r4t_IeDmGSZws)
+* 1.0.0
+    * Deploy en servidor
+    * Eliminación de widgets innecesarios
+    * Fix dependencias
 * 0.1.0
     * Mejora de UI/UX
 * 0.0.1

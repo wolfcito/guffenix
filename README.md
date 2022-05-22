@@ -1,13 +1,53 @@
-# Luis Fernando Ushiña
-> Creando Soluciones Mundo Virtual
+<div align="center">
 
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51898367-7f7a-44d1-880e-256f2d2a9fa5/de79qnn-d5fd7313-4278-4cb0-8dd3-6e5e85d0bebc.png/v1/fill/w_981,h_662,q_80,strp/screenshot_from_soluciones_mundovirtual_by_guffenix_de79qnn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NjIiLCJwYXRoIjoiXC9mXC81MTg5ODM2Ny03ZjdhLTQ0ZDEtODgwZS0yNTZmMmQyYTlmYTVcL2RlNzlxbm4tZDVmZDczMTMtNDI3OC00Y2IwLThkZDMtNmU1ZTg1ZDBiZWJjLnBuZyIsIndpZHRoIjoiPD05ODEifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.D9l8807LaE1mzVtOFj550uAnAgyS7-r4t_IeDmGSZws)
-* 1.0.0
-    * Deploy en servidor
-    * Eliminación de widgets innecesarios
-    * Fix dependencias
-* 0.1.0
-    * Mejora de UI/UX
-* 0.0.1
-    * Inicio del proyecto
+# Hello, I'm Luis Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://twitter.com/guffenix">
+  <img align="left" alt="Luis Fernando | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/guffenix">
+  <img align="left" alt="Luis Fernando's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=guffenix.guffenix)
+
+<br />
+<br />
+
+•
+[About me](#about) •
+[Favorite Technologies](#favorite-technologies) •
+[Can I help you?](#can-i-help-you) •
+
+</div>
+
+## About
+
+I consider myself responsible, organized, analytical and passionate.
+<br />
+My main focus is web programming; I have also been interested in mobile app development and the coming world of blockchain and its applications.
+<br />
+
+- 💼 Any freelance work? Do reach, [email](mailto:guffenix@gmail.com) :D
+- 💬 Do you want to help about anything, I will be happy to help you!
+
+## Favorite technologies
+
+<code>Java</code>
+<code>Javascript</code>
+<code>React</code>
+<code>Sql</code>
+<code>Git</code>
+<code>Firebase</code>
+<code>Angular</code>
+
+I like to keep myself updated and expand my knowledge every day. If you like any of my projects, or if you want to support my work, consider inviting me for a coffee.
+<br />
+<br />
+Thank you very much for your support! 💚
+
+<a href="[buymeacoffee.com/guffenix](https://www.buymeacoffee.com/guffenix)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+## Can I help you?
+
+<img src="https://raw.githubusercontent.com/guffenix/guffenix/master/services.png" alt="Services" >
